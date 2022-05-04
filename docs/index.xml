@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jinyu Liu（刘瑾瑜）</title>
+    <link>https://jinyuliu.com.cn/</link>
+    <description>Recent content in About on Jinyu Liu（刘瑾瑜）</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://jinyuliu.com.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jinyuliu.com.cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinyuliu.com.cn/about/</guid>
+      <description>About Me  I am an undergraduate student in Electrical Engineering at Xi&amp;rsquo;an Jiaotong University. I&amp;rsquo;m currently interested in the intersection between machine learning and various dynamical systems.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jinyuliu.com.cn/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinyuliu.com.cn/contact/</guid>
+      <description>  Email: jinyu-liu@qq.com
+  Mailing Address: 28 Xianning West Rd, Beilin, Xi&amp;rsquo;An, Shaanxi, China, 710049
+  </description>
+    </item>
+    
+  </channel>
+</rss>
